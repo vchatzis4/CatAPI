@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\services\\catapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:services\\catapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\repositories\\catrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:repositories\\catrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\dtos\\catimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:dtos\\catimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\dtos\\breeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:dtos\\breeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\models\\catentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:models\\catentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\models\\tagentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:models\\tagentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\models\\cattagentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:models\\cattagentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Migrations\\20241021131254_vol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241021131254_vol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\interfaces\\icatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:interfaces\\icatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\interfaces\\icatapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:interfaces\\icatapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|c:\\users\\vchatzis\\source\\repos\\catapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4A4757-2ECC-425A-BEAE-3817872ABF74}|CatAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Migrations\\20241021095638_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241021095638_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Services\\ValidationService.cs",
+              "RelativeToolTip": "Services\\ValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:49:52.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Models\\CatEntity.cs",
+              "RelativeDocumentMoniker": "Models\\CatEntity.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Models\\CatEntity.cs",
+              "RelativeToolTip": "Models\\CatEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:35:12.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatTagEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Models\\CatTagEntity.cs",
+              "RelativeDocumentMoniker": "Models\\CatTagEntity.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Models\\CatTagEntity.cs",
+              "RelativeToolTip": "Models\\CatTagEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:46:47.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Repositories\\CatRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CatRepository.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Repositories\\CatRepository.cs",
+              "RelativeToolTip": "Repositories\\CatRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:20:10.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatApiService.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Services\\CatApiService.cs",
+              "RelativeDocumentMoniker": "Services\\CatApiService.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Services\\CatApiService.cs",
+              "RelativeToolTip": "Services\\CatApiService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:02:37.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatsController.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Controllers\\CatsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CatsController.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Controllers\\CatsController.cs",
+              "RelativeToolTip": "Controllers\\CatsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:56:12.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TagEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Models\\TagEntity.cs",
+              "RelativeDocumentMoniker": "Models\\TagEntity.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Models\\TagEntity.cs",
+              "RelativeToolTip": "Models\\TagEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:46:55.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BreedDto.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\DTOs\\BreedDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BreedDto.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\DTOs\\BreedDto.cs",
+              "RelativeToolTip": "DTOs\\BreedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:00:33.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\DTOs\\CatImageDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CatImageDto.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\DTOs\\CatImageDto.cs",
+              "RelativeToolTip": "DTOs\\CatImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:59:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T20:30:47.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:07:01.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Interfaces\\ICatRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICatRepository.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Interfaces\\ICatRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:17:10.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241021131254_vol2.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Migrations\\20241021131254_vol2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241021131254_vol2.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Migrations\\20241021131254_vol2.cs",
+              "RelativeToolTip": "Migrations\\20241021131254_vol2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:12:54.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICatApiService.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Interfaces\\ICatApiService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICatApiService.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Interfaces\\ICatApiService.cs",
+              "RelativeToolTip": "Interfaces\\ICatApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:57:37.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:49:58.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241021095638_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Migrations\\20241021095638_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241021095638_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\vchatzis\\source\\repos\\CatAPI\\Migrations\\20241021095638_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241021095638_InitialCreate.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:56:38.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
