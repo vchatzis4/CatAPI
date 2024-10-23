@@ -32,3 +32,8 @@ A .NET 8 web application that fetches cat images from the Cat API and stores the
 2. Open the solution in Visual Studio 2022.
 3. Update the appsettings.json file with your SQL Server connection string.
 4. Build the solution.
+
+### Running the application
+
+- Run the application using IIS Express.
+- Access the API at https://localhost:44372/api/cats.
